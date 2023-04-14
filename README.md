@@ -2,12 +2,9 @@
 
 #### Easy
 - [ ] (website) Lorem generator
-- [ ] (website) Calculator
 - [ ] (website) To do list
-- [ ] (website) Tic tac toe
 - [ ] (website) Typing speed test
 - [ ] (webiste) RGB GUESSING GAME
-- [ ] (webiste) JavaScript clock
 
 #### Hard
 - [ ] ฝึกสร้างแอบจาก React
@@ -15,7 +12,9 @@
 - [ ] (Extension) Youtube Playlist Calculator
 
 ## Doing
-
+- [ ] (website) Calculator
+- [ ] (website) Tic tac toe
+- [ ] (webiste) JavaScript clock
 
 ## Done
 - [x] [Portfolio](https://sapondanaisriwan.github.io/)
