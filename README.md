@@ -10,7 +10,7 @@
 - [ ] ฝึกสร้างแอบจาก React
 - [ ] (Extension) YouTube Anti Shorts
 - [ ] (Extension) Youtube Playlist Calculator
-
+- [ ] (Extension) Convert AdashimaaTube style to extension
 ## Doing
 - [ ] (website) Calculator
 - [ ] (website) Tic tac toe
