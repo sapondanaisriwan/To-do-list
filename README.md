@@ -19,3 +19,4 @@
 ## Done
 - [x] [Portfolio](https://sapondanaisriwan.github.io/)
 - [x] [Units Converter website](https://github.com/sapondanaisriwan/px-to-rem-converter)
+- [x] [YT Redirect shorts extension](https://github.com/sapondanaisriwan/youtube-shorts-redirect)
