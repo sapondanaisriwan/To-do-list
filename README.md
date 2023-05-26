@@ -8,7 +8,6 @@
 
 #### Hard
 - [ ] ฝึกสร้างแอบจาก React
-- [ ] (Extension) YouTube Anti Shorts
 - [ ] (Extension) Youtube Playlist Calculator
 - [ ] (Extension) Convert AdashimaaTube style to extension
 ## Doing
@@ -19,4 +18,5 @@
 ## Done
 - [x] [Portfolio](https://sapondanaisriwan.github.io/)
 - [x] [Units Converter website](https://github.com/sapondanaisriwan/px-to-rem-converter)
-- [x] [YT Redirect shorts extension](https://github.com/sapondanaisriwan/youtube-shorts-redirect)
+- [x] [YT Redirect shorts](https://github.com/sapondanaisriwan/youtube-shorts-redirect) (Extension)
+- [x] [YouTube Anti Shorts](https://github.com/sapondanaisriwan/youtube-anti-shorts) (Extension)
