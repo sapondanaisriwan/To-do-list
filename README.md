@@ -8,8 +8,12 @@
 - [ ] ฝึกสร้าง React blog
 - [ ] ฝึกทำเว็ป E-Commerce 
 
-
 ## Doing
+- Tree Shop
+ใช้ React + tailwind สร้าง เอาแค่หน้า static page ต้อง reponsive ออกแบบผ่าน Figma
+- เว็บรายงาน covid 19
+- เว็บร้านอาหาร 
+
 
 ## Done
 - [x] [Portfolio](https://sapondanaisriwan.github.io/) (Website)
