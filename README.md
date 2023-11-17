@@ -1,24 +1,41 @@
 ## To Do
 
-#### Easy
+Note: ทั้งหมดจะใช้ NextJS + Tailwind ถ้าทำเสร็จจะฝึกใช้ UI-Framework ต่อให้คล่อง ใช้แข่งตอนสมัครงานทำ ใครเร็วใครได้
 
-#### Hard
-- [ ] ฝึกสร้างแอบจาก React
-- [ ] (Extension) Convert AdashimaaTube style to extension
-- [ ] ฝึกสร้าง React blog
-- [ ] ฝึกทำเว็ป E-Commerce 
+- ฝึก พูด อ่าน เขียน อังกฤษ เป็น Soft skill (ฝึกแบบ marathon)
+- ฝึกพิมพ์ดีดไทย เป็น Soft skill ใช้แข่งกันตอนสมัครงาน
+- สร้าง Components ใช้เอง เช่น InputField Select Slider and etc.
+- เว็บไซต์ ร้านอาหาร
+- เว็บไซต์ Color Generator
+- เว็บไซต์ Blog ส่วนตัว เพิ่มข้อมูล แก้ไขโพส ลบโพส อื่นๆ ฝึกเรื่อง database, routing, data fetching and CRUD
+- เว็บไซต์ To do list ฝึกเรื่อง logic
+- เว็บไซต์ Weather App สร้างหน้า Dashboard ฝึกเรื่องการใช้ API
+- ส่วนขยาย AdashimaaTube ฝึกเรื่อง DOM, Design อะไรต่อวะ
 
 ## Doing
-- Tree Shop
-ใช้ React + tailwind สร้าง เอาแค่หน้า static page ต้อง reponsive ออกแบบผ่าน Figma
-- เว็บรายงาน covid 19
-- เว็บร้านอาหาร 
 
+- ?
 
 ## Done
-- [x] [Portfolio](https://sapondanaisriwan.github.io/) (Website)
-- [x] [Units Converter](https://github.com/sapondanaisriwan/px-to-rem-converter) (Website)
-- [x] [YouTube Redirect shorts](https://github.com/sapondanaisriwan/youtube-shorts-redirect) (Extension)
-- [x] [YouTube Anti Shorts](https://github.com/sapondanaisriwan/youtube-anti-shorts) (Extension)
-- [x] [Youtube Playlist Calculator](https://github.com/sapondanaisriwan/youtube-playlist-calculator) (Extension)
-- [x] [YouTube Row Fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) (Extension)
+
+#### (Website)
+
+- [x] [Qr Code Generator][website1]
+- [x] [Covid 19 report in Thailand][website2]
+- [x] [Units Converter][website3]
+
+[website1]: https://github.com/sapondanaisriwan/qr-code-generator-site
+[website2]: https://github.com/sapondanaisriwan/covid-19-tracker-thailand
+[website3]: https://github.com/sapondanaisriwan/px-to-rem-converter
+
+#### (Extension)
+
+- [x] [YouTube Redirect Shorts][extension1]
+- [x] [YouTube Anti Shorts][extension2]
+- [x] [Youtube Playlist Calculator][extension3]
+- [x] [YouTube Row Fixer][extension4]
+
+[extension1]: https://github.com/sapondanaisriwan/youtube-shorts-redirect
+[extension2]: https://github.com/sapondanaisriwan/youtube-anti-shorts
+[extension3]: https://github.com/sapondanaisriwan/youtube-playlist-calculator
+[extension4]: https://github.com/sapondanaisriwan/youtube-row-fixer
