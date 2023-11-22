@@ -33,8 +33,10 @@ Note: ทั้งหมดจะใช้ NextJS + Typescript + Tailwind ถ้
 - [x] [YouTube Anti Shorts][extension2]
 - [x] [Youtube Playlist Calculator][extension3]
 - [x] [YouTube Row Fixer][extension4]
+- [x] [Quick Arrow Snippets for VS Code][extension5]
 
 [extension1]: https://github.com/sapondanaisriwan/youtube-shorts-redirect
 [extension2]: https://github.com/sapondanaisriwan/youtube-anti-shorts
 [extension3]: https://github.com/sapondanaisriwan/youtube-playlist-calculator
 [extension4]: https://github.com/sapondanaisriwan/youtube-row-fixer
+[extension5]: https://github.com/sapondanaisriwan/quick-arrow-snippets
