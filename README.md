@@ -19,7 +19,7 @@ I created all my project for my enjoy and to improve my coding skills.
 - [x] [Grid View for GitHub][BE1]
 - [x] [Copy Instagram Images][BE2]
 - [x] [Hide Shorts for YouTube][BE3]
-- [x] [Row Fixer fir YouTube][BE4]
+- [x] [Row Fixer for YouTube][BE4]
 
 [BE1]: https://github.com/sapondanaisriwan/github-grid-view
 [BE2]: https://github.com/sapondanaisriwan/copy-instagram-images
