@@ -14,20 +14,16 @@ I created all my project for my enjoy and to improve my coding skills.
 [S2]: https://github.com/sapondanaisriwan/covid-19-tracker-thailand
 [S3]: https://github.com/sapondanaisriwan/px-to-rem-converter
 
-#### (Browser Extension)
+#### (Extension)
 
 - [x] [Grid View for GitHub][BE1]
-- [x] [Copy Instagram Images][BE2]
+- [x] [Copy Images for Instagram][BE2]
 - [x] [Hide Shorts for YouTube][BE3]
 - [x] [Row Fixer for YouTube][BE4]
+- [x] [Quick Arrow Snippets for VS Code][BE5]
 
 [BE1]: https://github.com/sapondanaisriwan/github-grid-view
 [BE2]: https://github.com/sapondanaisriwan/copy-instagram-images
 [BE3]: https://github.com/sapondanaisriwan/hide-shorts-for-youtube
 [BE4]: https://github.com/sapondanaisriwan/youtube-row-fixer
-
-#### (VSCode Extension)
-
-- [x] [Quick Arrow Snippets for VS Code][VE1]
-
-[VE1]: https://github.com/sapondanaisriwan/quick-arrow-snippets
+[BE5]: https://github.com/sapondanaisriwan/quick-arrow-snippets
