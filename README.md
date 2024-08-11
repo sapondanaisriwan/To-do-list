@@ -37,12 +37,14 @@ I created all my project for my enjoy and to improve my coding skills.
 - [x] [Hide Shorts for YouTube][BE3]
 - [x] [Row Fixer for YouTube][BE4]
 - [x] [Cool Mango CMU][BE5]
+- [x] [Return Youtube Red Subscribe Button][BE6]
 
 [BE1]: https://github.com/sapondanaisriwan/github-grid-view
 [BE2]: https://github.com/sapondanaisriwan/copy-instagram-images
 [BE3]: https://github.com/sapondanaisriwan/hide-shorts-for-youtube
 [BE4]: https://github.com/sapondanaisriwan/youtube-row-fixer
 [BE5]: https://github.com/sapondanaisriwan/Cool-Mango-CMU
+[BE5]: https://github.com/sapondanaisriwan/return-youtube-red-subscribe-button
 
 #### (VS Code Extension)
 
