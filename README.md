@@ -51,3 +51,9 @@ I created all my project for my enjoy and to improve my coding skills.
 - [x] [Quick Arrow Snippets for VS Code][VE1]
 
 [VE1]: https://github.com/sapondanaisriwan/quick-arrow-snippets
+
+#### Terminal Theme
+- [x] [Beautiful Terminal][T1]
+
+[T1]: https://github.com/sapondanaisriwan/beautiful-terminal
+
