@@ -4,20 +4,6 @@ I created all my project for my enjoy and to improve my coding skills.
 
 ## Done
 
-#### Upcoming
-
-- VTuber-Logos-Archive (website)
-- ทำ api เล่นๆ เช่น 
-  - รวมรูป Adachi กับ Shimamura แล้วทำเป็นเส้น api สุ่มรูป
-- เว็บขายหนังสือ
-- เว็บอนิเมะ
-- เว็บโดนจิน
-- เว็บทุนคณะ
-- ทำ bot discord 
-  - เช็ค user ว่าเป็นนัศศึกษาใน cpe ไหม?
-  - ดึงข้อมูลของรายบุคคลในหนังสือรุ่นได้
-  - แสดงเกรดของรายบุคคล api leak
-
 #### (Website)
 
 - [x] [Qr Code Generator][S1]
@@ -60,6 +46,20 @@ I created all my project for my enjoy and to improve my coding skills.
 #### Template
 - [x] [Express-Starter][TP1]
 - [x] [nextjs crxjs chrome extension][TP2]
+
+#### Upcoming
+
+- VTuber-Logos-Archive (website)
+- ทำ api เล่นๆ เช่น 
+  - รวมรูป Adachi กับ Shimamura แล้วทำเป็นเส้น api สุ่มรูป
+- เว็บขายหนังสือ
+- เว็บอนิเมะ
+- เว็บโดนจิน
+- เว็บทุนคณะ
+- ทำ bot discord 
+  - เช็ค user ว่าเป็นนัศศึกษาใน cpe ไหม?
+  - ดึงข้อมูลของรายบุคคลในหนังสือรุ่นได้
+  - แสดงเกรดของรายบุคคล api leak
 
 [TP1]: https://github.com/Adashimaa/express-starter
 [TP2]: https://github.com/sapondanaisriwan/nextjs-crxjs-chrome-extension
