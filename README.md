@@ -57,3 +57,10 @@ I created all my project for my enjoy and to improve my coding skills.
 
 [T1]: https://github.com/sapondanaisriwan/beautiful-terminal
 
+#### Template
+- [x] [Express-Starter][TP1]
+- [x] [nextjs crxjs chrome extension][TP2]
+
+[TP1]: https://github.com/Adashimaa/express-starter
+[TP2]: https://github.com/sapondanaisriwan/nextjs-crxjs-chrome-extension
+
