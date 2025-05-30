@@ -35,8 +35,10 @@ I created all my project for my enjoy and to improve my coding skills.
 #### (VS Code Extension)
 
 - [x] [Quick Arrow Snippets for VS Code][VE1]
+- [x] [Makefile Runner][VE2]
 
 [VE1]: https://github.com/sapondanaisriwan/quick-arrow-snippets
+[VE2]: https://github.com/sapondanaisriwan/makefile-runner
 
 #### Terminal Theme
 - [x] [Beautiful Terminal][T1]
